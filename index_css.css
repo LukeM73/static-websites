@@ -1,0 +1,25 @@
+* {
+    font-style: Arial, Verdana, Times;
+    background-color: dimgray;
+    text-align: center;
+
+}
+p {
+    color: aquamarine;
+}
+h1 {
+    color: darkblue;
+    font-size: 60px;
+}
+h2 {
+    color: blue;
+    font-size: 40px;
+}
+a {
+    color:darkmagenta;
+    text-decoration: underline;
+}
+b {
+    font-size: 110%;
+    color: aqua;
+}
